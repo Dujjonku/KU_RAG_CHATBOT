@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Vibe/01_Python"
+		},
+		{
+			"path": "../Vibe/02_streamlit_lecture"
+		},
+		{
+			"path": "../Vibe/03_LangChain"
+		}
+	]
+}
