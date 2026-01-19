@@ -24,7 +24,7 @@ jobs:
             # ==========================================
             # [https://github.com/Dujjonku/KU_RAG_CHATBOT.git] 아래 변수들을 상황에 맞게 수정하세요
             # ==========================================
-            REPO_URL="https://github.com/Ohgiraffers-bear/KU_RAG_CHATBOT.git"
+            REPO_URL="https://github.com/Dujjonku/KU_RAG_CHATBOT.git"
             DIR_NAME="KU_RAG_CHATBOT"
             FILE_NAME="Project.py"
             PORT="8501"
