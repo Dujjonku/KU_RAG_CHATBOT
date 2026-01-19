@@ -33,8 +33,8 @@ jobs:
 
             # 1. Miniforge 활성화 (SSH에서는 .bashrc가 자동 로드되지 않을 수 있음)
             # 설치 경로가 ~/miniforge3 가 아니라면 경로를 수정해야 합니다.
-            if [ -f "$HOME/miniforge3/etc/profile.d/conda.sh" ]; then
-                source "$HOME/miniforge3/etc/profile.d/conda.sh"
+            if [ -f "$HOME/miniforge/etc/profile.d/conda.sh" ]; then
+                source "$HOME/miniforge/etc/profile.d/conda.sh"
             else
                 echo "Miniforge path not found! Check your installation."
                 exit 1
